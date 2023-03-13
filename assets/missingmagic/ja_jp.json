@@ -1,0 +1,22 @@
+{
+  "missingmagic.spellpiece.trick_test": "Trick: Test",
+  "missingmagic.spellpiece.trick_test.desc": "Test Spell Piece",
+  "missingmagic.spellpiece.trick_freeze": "Trick: Freeze Block",
+  "missingmagic.spellpiece.trick_freeze.desc": "Freezes the Block at the given Position",
+  "missingmagic.spellpiece.trick_freeze_sequence": "Trick: Freeze Block Sequence",
+  "missingmagic.spellpiece.trick_freeze_sequence.desc": "Freezes a sequence of blocks along the direction of the given Vector",
+  "missingmagic.spellpiece.trick_torrent_sequence": "Trick: Torrent Sequence",
+  "missingmagic.spellpiece.trick_torrent_sequence.desc": "Creates a sequence of water along the direction of the given Vector",
+  "missingmagic.spellpiece.trick_melt": "Trick: Melt Block",
+  "missingmagic.spellpiece.trick_melt.desc": "Melts the Block at the given Position",
+  "missingmagic.spellpiece.trick_melt_sequence": "Trick: Melt Block Sequence",
+  "missingmagic.spellpiece.trick_melt_sequence.desc": "Melts a sequence of blocks along the direction of the given Vector",
+
+  "missingmagic.spellpiece.operator_vector_component_sum": "Operator: Vector Component Sum",
+  "missingmagic.spellpiece.operator_vector_component_sum.desc": "Adds up all the components of the given Vector",
+  "missingmagic.spellpiece.operator_vector_component_product": "Operator: Vector Component Product",
+  "missingmagic.spellpiece.operator_vector_component_product.desc": "Multiplies together all the components of the given Vector",
+
+  "missingmagic.error.range": "ERROR: The range of this trick is 32 blocks",
+  "missingmagic.error.test": "ERROR: Test Error"
+}
